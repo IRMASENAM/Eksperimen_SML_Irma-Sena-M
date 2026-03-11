@@ -49,7 +49,7 @@ Eksperimen_SML_Irma-Sena-M
 ├── preprocessing
 │   ├── Eksperimen_Irma-Sena-M.ipynb
 │   ├── automate_Irma-Sena-M.py
-│   └── heart_clean.csv
+│   └── heart_preprocessing.csv
 │
 └── README.md
 ```
