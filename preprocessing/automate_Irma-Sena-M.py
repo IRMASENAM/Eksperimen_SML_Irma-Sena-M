@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 def preprocessing():
 
     # Load dataset
-    df = pd.read_csv("../heart_raw/heart.csv")
+    df = pd.read_csv("heart_raw/heart.csv")
 
     # Hapus duplikasi
     df = df.drop_duplicates()
